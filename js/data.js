@@ -11,7 +11,7 @@ const portfolioData = {
       accent: "Developer"
     },
     subtitle: "Laravel & ReactJS · ERP Systems · Kathmandu, Nepal",
-    description: "I'm <strong>Kaushal Ghimire</strong> — a detail-oriented developer with 2+ years of experience building scalable ERP systems and clean, performant web applications.",
+    description: "I'm <strong>Kaushal Ghimire</strong> — a detail-oriented developer with 2.5+ years of experience building scalable ERP systems and clean, performant web applications.",
     actions: [
       { text: "View My Work", link: "#portfolio", type: "primary" },
       { text: "Let's Talk", link: "#contact", type: "ghost" }
